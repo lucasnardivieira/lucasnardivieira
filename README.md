@@ -1,41 +1,30 @@
-<h1 align="left">Hey 👋 this is Lucas!</h1>
+# Hi, I'm Lucas 👋
 
-###
+**Data Engineer → Data & AI Engineer** · Computer Engineer · Florianópolis, Brazil
 
-<p align="left">I'm a Computer Engineer living currently in Florianópolis, Brazil.<br><br>I'm passionate about building smart, useful, and scalable tech — especially when it involves data, machine learning, and full-stack development. I have solid experience in Python, data processing with Pandas and SQL, AI frameworks like Hugging Face and OpenAI, and web development with React, Tailwind, and Django. Lately, I’ve been diving into Cloud Computing with AWS, learning to deploy and scale applications in real-world environments.<br><br>Outside the code world, you’ll find me enjoying retro games, pop music, good books, and planning my next travel adventure. I believe great software starts with curiosity, grows with collaboration, and thrives with continuous learning — and I try to live that every day.<br><br>Let’s build something cool! 🚀</p>
+I build data pipelines that are tested, documented and cheap to run, and I'm growing toward AI engineering: putting LLMs on top of well-modeled data, with retrieval, agents and evals.
 
-###
+### 🛠️ What I work with
 
-<h2 align="left">About me</h2>
+| | |
+|---|---|
+| **Daily** | Python · SQL · pandas · dbt · DuckDB · PostgreSQL · Docker · Git |
+| **Orchestration** | Prefect · Airflow |
+| **Cloud** | AWS · GCP |
+| **Learning now** | Spark · Dagster · BigQuery · Terraform · Kafka · Iceberg · Claude API · RAG · MCP · LLM evals |
 
-###
+### 📌 Featured
 
-<p align="left">✨ Creating bugs since 2019, when I dove into Computer Engineering — and fixing some of them too!  <br>📚 Currently exploring the world of cloud computing by building real apps using AWS tools and services.  <br>🎯 Goals: Level up as a full-stack developer with a solid foundation, clean code habits, and the ability to turn cool ideas into working software.</p>
+- **[cnpj-dbt-pipeline](https://github.com/lucasnardivieira/cnpj-dbt-pipeline)**: Brazil's company registry modeled with dbt + DuckDB, with layered models, SCD2 snapshots, data tests and CI on synthetic fixtures, orchestrated by Prefect.
+- **[myMovie](https://github.com/lucasnardivieira/myMovie)**: a movie recommender over ~1M TMDB titles, ranked by IMDb's weighted rating. It's my long-term sandbox for recommendation and LLM ideas.
 
-###
+### 🧭 Learning in public
 
-<h2 align="left">I code with</h2>
+I'm on a 12-month Data Engineering + AI Engineering path (Oct 2026 → Oct 2027), covering the DataTalks.Club Zoomcamps, the AWS Data Engineer cert, and five portfolio projects from a GCP data platform to a warehouse MCP agent.
+Roadmap, notes and weekly reviews: **[learning-journey](https://github.com/lucasnardivieira/learning-journey)**.
 
-###
+### 📫 Contact
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
-</div>
+[LinkedIn](https://www.linkedin.com/in/lucasnardivieira/) · [lucasvnardi@gmail.com](mailto:lucasvnardi@gmail.com)
 
-###
+<sub>Off the keyboard: retro games, pop music, good books and planning the next trip.</sub>
